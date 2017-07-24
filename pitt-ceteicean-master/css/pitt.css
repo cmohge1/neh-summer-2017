@@ -14,9 +14,3 @@ tei-lb::before {
 	white-space: pre;
 	content: '\A';
 }
-tei-supplied::before {
-	content: '[';
-}
-tei-supplied::after {
-	content: ']';
-}
